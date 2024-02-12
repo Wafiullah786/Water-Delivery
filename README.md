@@ -1,5 +1,5 @@
 # Water-Delivery
-![1](https://github.com/Wafiullah786/Water-Delivery/assets/130735471/e4491597-e404-4db5-97a4-5223d3f6cf8d)
+<img src = "113.png" width ="380" />
 
 
 
