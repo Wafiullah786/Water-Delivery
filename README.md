@@ -1,8 +1,4 @@
 # Water-Delivery
-<img src = "113.png" width ="380" />
-
-
-
 INTRODUCTION
 
 In Saudi Arabia there are different mineral water companies that
@@ -26,6 +22,11 @@ KEY FEATURES:
 10. Manage Reviews and Feedback
 
 TECHNOLOGIES & TOOLS USED
+1. Flutter
+3. .NET
+4. SQL Database
+5. FCM
+6. Payment Gateway
 
 SCREENSHOTS
 
